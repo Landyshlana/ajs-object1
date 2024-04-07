@@ -24,4 +24,3 @@ export default function orderByProps(obj, array = []) {
 	return result;
 
 };
-
